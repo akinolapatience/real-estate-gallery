@@ -1,0 +1,28 @@
+.host-info {
+  margin-bottom: 40px;
+}
+
+.host-info h2 {
+  font-size: 22px;
+  margin-bottom: 16px;
+  color: #333;
+}
+
+.host-details {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+}
+
+.host-avatar {
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 2px solid #ccc;
+}
+
+.host-details p {
+  margin: 4px 0;
+  color: #555;
+}

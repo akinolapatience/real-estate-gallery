@@ -1,0 +1,15 @@
+.map-section {
+  margin-bottom: 40px;
+}
+
+.map-section h2 {
+  font-size: 22px;
+  margin-bottom: 16px;
+  color: #333;
+}
+
+.map-container iframe {
+  width: 100%;
+  height: 300px;
+  border: 0;
+}

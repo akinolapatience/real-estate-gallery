@@ -1,0 +1,44 @@
+.booking-form {
+  border: 1px solid #ddd;
+  padding: 20px;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.1);
+  background-color: white;
+}
+
+.price-section h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.price-section span {
+  font-size: 14px;
+  color: #666;
+}
+
+.booking-form label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: 500;
+}
+
+.booking-form input,
+.booking-form select {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+}
+
+.booking-form button {
+  width: 100%;
+  background-color: #ff5a5f;
+  color: white;
+  padding: 12px;
+  font-weight: bold;
+  border: none;
+  cursor: pointer;
+}
+
+.booking-form button:hover {
+  background-color: #e0494f;
+}

@@ -3,7 +3,7 @@ import ImageGallery from './components/ImageGallery';
 import AmenitiesGrid from './components/AmenitiesGrid';
 import BookingForm from './components/BookingForm';
 import AboutSection from './components/AboutSection';
-import HostInfo from './components/Hostinfo';
+import HostInfo from './components/HostInfo';
 import MapSection from './components/MapSection';
 import InfoCards from './components/InfoCards';
 import ScheduleDetails from './components/ScheduleDetails';
